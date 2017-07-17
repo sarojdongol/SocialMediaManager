@@ -1,0 +1,27 @@
+h1{
+	font-size: 18px;
+}
+ul#menu {
+	padding:0;
+	}
+	ul#menu li{
+	display:inline
+	}
+ul#menu li a{
+	backgroound-color:red;
+	padding: 10px 20px;
+	text-decoration: underline;
+	border-radius: 4px 4px 0 0;
+}
+
+a:hover{
+	background-color: orange;
+	text-docoration: none;
+}
+h2 {
+	font-size: 16px;
+}
+p{
+	font-size: 14px;
+}
+}
